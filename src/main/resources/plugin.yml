@@ -1,0 +1,6 @@
+name: md5
+author: brickmonster
+version: "GIT"
+api-version: "1.20"
+
+main: brickmonster.md5.Plugin
